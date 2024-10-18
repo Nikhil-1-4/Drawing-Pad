@@ -1,1 +1,2 @@
 # Drawing-Pad
+Drawing Pad is a web-based interactive drawing application made with HTML5, CSS, and JavaScript, using the API of the HTML5 Canvas element. It will allow the user to draw and erase, switch colours and change the size of the brush, save images, and some basic shapes: circles, rectangles, triangles. This project will prove that a student can work with the Canvas API to create dynamic and interactive drawing applications and procedures.
